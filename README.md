@@ -12,4 +12,4 @@
 </a>
 
 ## 🧠 Language
-![image](https://github.com/deverays/deverays/assets/129968185/b0535755-332b-41fb-954d-3373b75d04a6) Node.js
+![image](https://github.com/deverays/deverays/assets/129968185/c61b50fd-87f4-4a5e-9d86-f448c89554cf) Node.js
