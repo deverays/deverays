@@ -1,8 +1,8 @@
 ## 💫 About Me:
-<a> 🔭 I’m currently working on discord bot development </a>
-<a> 🤝 I’m looking for help with Java-Script </a>
-<a> 🌱 I’m currently learning Java-Script </a>
-<a> ⚡ Fun fact: nothing </a>
+<a> 🔭 I’m currently working on discord bot development
+🤝 I’m looking for help with Java-Script
+🌱 I’m currently learning Java-Script
+⚡ Fun fact: nothing </a>
 
 ### Spotify Playing 🎧
 
