@@ -1,9 +1,3 @@
-## 💫 About Me:
-<a> 🔭 I’m currently working on discord bot development
-🤝 I’m looking for help with Java-Script
-🌱 I’m currently learning Java-Script
-⚡ Fun fact: nothing </a>
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31olonwfwhw5hut7zxc45yemfhxm)
