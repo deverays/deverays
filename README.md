@@ -23,7 +23,6 @@ Hi, I'm Eray!
 
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
@@ -44,6 +43,7 @@ Hi, I'm Eray!
 
 <p>
     <a href="https://github.com/deverays"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/deverays"><img alt="Node.js" src="https://img.shields.io/badge/NodeJs%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/deverays"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
