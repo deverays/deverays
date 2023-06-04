@@ -43,7 +43,6 @@ Hi, I'm Eray!
 
 <p>
     <a href="https://github.com/deverays"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/deverays"><img alt="Node.js" src="https://img.shields.io/badge/NodeJs%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/deverays"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
@@ -63,6 +62,7 @@ Hi, I'm Eray!
 <p>
     <a href="https://github.com/deverays"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/deverays"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+	    <a href="https://github.com/deverays"><img alt="Mongo" src ="https://img.shields.io/badge/Mongo-%23FF6F00.svg?logo=mongo&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
