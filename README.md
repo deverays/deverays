@@ -12,11 +12,15 @@
 </a>
 
 ## 🧠 Language
-🧶 Node.js
-🎨 Python
-🎯 TypeScript
-🧩 React
-🌠 Vue
+📗 Node.js, 
+📔 Python, 
+📘 TypeScript, 
+📕 React, 
+📗 Vue, 
+📙 Next.js, 
+📒 JavaScript
+
 
 ## 🌌 Database
-⚔️ Mongo
+⚔️ Mongo, 
+🔥 FireBase
