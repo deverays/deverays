@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on discord bot development
+🔭 I’m currently working on discord bot development \n
 🤝 I’m looking for help with Java-Script
 🌱 I’m currently learning Java-Script
 ⚡ Fun fact: nothing
