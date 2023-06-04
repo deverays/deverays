@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Bouaskaoun Mohammed!
+Hi, I'm Eray!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -104,8 +104,8 @@ Hi, I'm Bouaskaoun Mohammed!
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+	<a href="https://github.com/deverays">
+		<img src="https://activity-graph.herokuapp.com/graph?username=deverays&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="deverays">
 	</a>
 </p>
 <br/>
@@ -114,8 +114,8 @@ Hi, I'm Bouaskaoun Mohammed!
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	<a href="https://github.com/deverays">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverays&langs_count=8&layout=compact" alt="deverays">
 	</a>
 	<br/>
 <br/>
@@ -129,16 +129,16 @@ Hi, I'm Bouaskaoun Mohammed!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="eray.main.mail+github@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="#">Fiverr</a> or <a href="https://www.linkedin.com/in/eray-g%C3%BCn%C3%BCuygun-ba06a2275/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
 
 ## It's not perfect, isn't it?
 
-**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+**<a href="https://github.com/deverays"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 “I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
 – Elon Musk
@@ -149,6 +149,6 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> o
 
 ------
 
-[Bouaskaoun](https://github.com/Bouaskaoun)
+[Eray](https://github.com/deverays)
 
-Last Edited on: 19/07/2022
+Last Edited on: 04.06.2023
